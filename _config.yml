@@ -1,0 +1,3 @@
+# daily — 中文新闻站（GitHub Pages）
+# URL 规则：/YYYY/MM/DD/<slug>.html，稳定且不随分类变化
+permalink: /:year/:month/:day/:slug.html
