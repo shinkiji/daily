@@ -15,7 +15,7 @@ tags:
 excerpt: 普京首次以总统身份访问择捉岛，日本政府研究强化制裁、召回大使等对抗措施；俄方称抗议是“无谓的谈话”，美方重申承认日本主权。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

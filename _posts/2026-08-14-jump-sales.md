@@ -15,7 +15,7 @@ tags:
 excerpt: 日本杂志协会公布，《周刊少年Jump》4至6月平均发行量98.5万册，首次跌破100万册；纸质杂志百万级发行就此消失。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

@@ -15,7 +15,7 @@ tags:
 excerpt: 夏季甲子园第10日3回战，横滨10-1大胜日南学园晋级16强；投手织田翔希投出156公里/小时，创甲子园史上最快球速。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

@@ -15,7 +15,7 @@ tags:
 excerpt: 冲绳科学技术大学院大学等团队8月14日在《Science》发表论文，用人工冬眠小鼠解明记忆长期维持的关键在于突触配置而非强度。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

@@ -14,7 +14,7 @@ tags:
 excerpt: 泰国地方公务员考试被曝5925人分数遭篡改，5145名不合格者被记为合格；重算后一名考生从第132名跃居第1名。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

@@ -16,7 +16,7 @@ tags:
 excerpt: JBIC 8月14日公布对美投融资第二批，与美国花旗、摩根大通联手为两座天然气火电项目提供合计约46.1亿美元（约7300亿日元）融资，美银首次参与。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

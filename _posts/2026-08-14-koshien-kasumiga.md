@@ -14,7 +14,7 @@ tags:
 excerpt: 夏季甲子园第10日2回战，霞浦5-1击败鸣门涡潮，实现校史首次单届2胜，晋级16强。
 edition_date: '2026-08-14'
 daily_section: other
-importance: low
+importance: 3
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

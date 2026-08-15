@@ -14,7 +14,7 @@ tags:
 excerpt: 东海道、山阳新干线的“S WorkP座位”因追加2000日元即可确保邻座空置而在SNS走红，被称为“独座席”。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

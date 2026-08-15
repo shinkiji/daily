@@ -14,7 +14,7 @@ tags:
 excerpt: 冒充转卖甲子园门票的SNS诈骗咨询接连出现，兵库县警已接9起报案；预售票售罄、无当日票的背景放大了诈骗空间。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

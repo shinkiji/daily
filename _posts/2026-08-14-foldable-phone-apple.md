@@ -14,7 +14,7 @@ tags:
 excerpt: 谷歌、三星、联想相继推出折叠屏新机，苹果或也即将入局；IDC预测2026年全球折叠机出货量增长约3成。
 edition_date: '2026-08-14'
 daily_section: other
-importance: low
+importance: 3
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

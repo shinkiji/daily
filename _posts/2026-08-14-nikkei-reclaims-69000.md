@@ -14,7 +14,7 @@ tags:
 excerpt: 日经平均14日盘中一度上涨超1100点，约一个月来首次重回69000点上方；背景是美股标普500创新高与美国通胀降温。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

@@ -14,7 +14,7 @@ tags:
 excerpt: 道指13日收涨69.72美元报53839.99美元，为4个交易日来首次上涨；美国7月批发物价涨幅低于预期，加息预期降温。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

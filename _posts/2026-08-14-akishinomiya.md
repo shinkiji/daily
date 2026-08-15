@@ -15,7 +15,7 @@ tags:
 excerpt: 围绕10月24日施行的改正皇室典范，秋篠宫8月13日表示认同天皇"希望获得国民理解"的发言，并称"作为活生生的人有各种想法"，但对制度本身不予置评。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

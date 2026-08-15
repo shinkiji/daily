@@ -15,7 +15,7 @@ tags:
 excerpt: 秋田县8月14日宣布，县职员在本月6日AI数据中心招商线上记者会上以不适当场所、服装吸烟应对媒体，被停职6个月并降为主干，干部公开致歉。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T14:30:00+09:00
 news_date: '2026-08-14'
 ---

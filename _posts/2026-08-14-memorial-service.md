@@ -15,7 +15,7 @@ tags:
 excerpt: 8月15日日本迎来战后81年，政府追悼仪式将在武道馆举行，参列遗属战后世代占比预计创新高；高市首相追悼辞是否使用"反省"成为焦点。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

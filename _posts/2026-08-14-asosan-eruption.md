@@ -14,7 +14,7 @@ tags:
 excerpt: 气象厅14日将阿苏山中岳喷火警戒升至3级（入山管制），火山性微动增强、二氧化硫排放超2000吨/日；与熊本地震的关联现阶段不明。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

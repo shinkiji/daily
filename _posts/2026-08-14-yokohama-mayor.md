@@ -15,7 +15,7 @@ tags:
 excerpt: 因职场霸凌被第三方调查认定的横滨市长山中竹春8月13日在议会首次应答，全部接受报告并反复道歉，但否认辞职；会后自民党市议团表示将要求其下台。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

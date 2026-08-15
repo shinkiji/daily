@@ -14,7 +14,7 @@ tags:
 excerpt: 日本篮协8月14日公布韩国战名单，NBA快船队八村塁时隔约两年重返国家队，15日预计出场20分钟左右。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

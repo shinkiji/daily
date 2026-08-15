@@ -15,7 +15,7 @@ tags:
 excerpt: 千叶豪雨截至14日晚确认8人死亡1人失踪，逾40万人收到避难指示；22市町发布全国首次等级5大雨特别警报，成田机场一度约7000人滞留。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

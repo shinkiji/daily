@@ -14,7 +14,7 @@ tags:
 excerpt: 日本农林水产省8月14日公布，截至8月9日一周全国超市大米平均售价为每5公斤3220日元（含税），7周来首次上涨。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T14:30:00+09:00
 news_date: '2026-08-14'
 ---

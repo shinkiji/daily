@@ -14,7 +14,7 @@ tags:
 excerpt: 美国土安全部将为ICE调查官配备电击手套，预算最高2000万美元；民权团体与民主党批评称存在滥用风险。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

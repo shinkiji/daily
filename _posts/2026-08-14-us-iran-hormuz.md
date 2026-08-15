@@ -15,7 +15,7 @@ tags:
 excerpt: 美军拟以横须贺基地的“乔治·华盛顿”号接替异例部署超250天的林肯号；霍尔木兹海峡通航紧张持续，美伊各自宣称掌控海峡。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

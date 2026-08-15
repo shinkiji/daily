@@ -14,7 +14,7 @@ tags:
 excerpt: 中国公务船4艘14日下午进入尖阁诸岛久场岛东侧领海约2小时，距上次（7/23）约3周；海保持续警戒监视。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

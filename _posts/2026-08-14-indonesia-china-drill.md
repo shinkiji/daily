@@ -15,7 +15,7 @@ tags:
 excerpt: 印尼海军称与中国在台湾以东海域的联合航行训练是“外交而非战斗”；台湾当局谴责中国无视国际规范。
 edition_date: '2026-08-14'
 daily_section: other
-importance: low
+importance: 3
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

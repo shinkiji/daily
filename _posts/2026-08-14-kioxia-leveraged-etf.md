@@ -14,7 +14,7 @@ tags:
 excerpt: 多家美国资管公司申请推出追踪铠侠股价的杠杆ETF，日本不认可的个股杠杆ETF或“反向登陆”日本投资者。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

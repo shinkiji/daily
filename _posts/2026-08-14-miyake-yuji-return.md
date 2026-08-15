@@ -13,7 +13,7 @@ tags:
 excerpt: 产经新闻重刊2011年档案访谈：三宅裕司讲述2010年因腰伤停演、手术后复出的经历，并称病中看清了自己的“使命”。
 edition_date: '2026-08-14'
 daily_section: other
-importance: low
+importance: 3
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

@@ -15,7 +15,7 @@ tags:
 excerpt: 因酷暑干旱致多瑙河水位下降，罗马尼亚切尔纳沃德核电站8月13日再停一台机组；欧洲核电站因"水风险"相继运转受限。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

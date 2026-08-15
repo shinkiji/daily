@@ -15,7 +15,7 @@ tags:
 excerpt: 以战争体验长篇儿童文学《玻璃兔》闻名的作家高木敏子8月8日去世，享年94岁；作品累计发行超240万部，译成多种语言。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

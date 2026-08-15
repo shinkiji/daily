@@ -20,7 +20,7 @@ tags:
 excerpt: 日本水产厅8月14日宣布，围绕太平洋蓝鳍金枪鱼渔获配额的谈判将于8月18日以线上方式重开。上月国际会议因墨西哥反对而未能就增额达成一致，水产厅表示墨西哥已转变立场、转为支持调整方案，因此决定召开这次"异例"的追加会议。
 edition_date: '2026-08-14'
 daily_section: other
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T14:16:00+09:00
 news_date: '2026-08-14'
 ---

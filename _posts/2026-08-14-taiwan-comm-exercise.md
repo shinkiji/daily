@@ -14,7 +14,7 @@ tags:
 excerpt: 台湾13日在北部7县市首次实施手机数据通信大幅降速30分钟的演练，与防空演习同时进行，旨在模拟通信基础设施遭攻击的持久战场景。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

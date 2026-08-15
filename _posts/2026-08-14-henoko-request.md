@@ -15,7 +15,7 @@ tags:
 excerpt: 边野古海域研修船翻覆事故中遇难学生的遗属8月14日向同志社国际高中及学校法人提交要求书，要求公开教育活动的验证机制并追查安全管理责任。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

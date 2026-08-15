@@ -15,7 +15,7 @@ tags:
 excerpt: 8月12日西班牙、冰岛等地观测到日全食，为欧洲本土27年来首次；雷克雅未克肉眼可见日全食为1433年以来首次。
 edition_date: '2026-08-14'
 daily_section: other
-importance: low
+importance: 3
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

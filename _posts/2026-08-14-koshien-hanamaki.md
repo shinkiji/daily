@@ -15,7 +15,7 @@ tags:
 excerpt: 夏季甲子园第10日首场2回战，花卷东以7次盗垒的机动进攻4-1击败冈山学艺馆，晋级16强。
 edition_date: '2026-08-14'
 daily_section: other
-importance: low
+importance: 3
 source_checked_at: 2026-08-15T00:20:00+09:00
 news_date: '2026-08-14'
 ---

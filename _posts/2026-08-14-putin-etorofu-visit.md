@@ -15,7 +15,7 @@ tags:
 excerpt: 普京首次以总统身份访问择捉岛，日本政府称“完全无法接受”并拟研究对抗措施，俄方拒绝抗议，美方则重申承认日本主权。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T10:10:00+09:00
 news_date: '2026-08-14'
 ---

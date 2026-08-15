@@ -15,7 +15,7 @@ tags:
 excerpt: Nichirei 8月14日公布，因上月网络攻击，集团员工姓名、出生年月日等个人信息可能泄露；目前未确认遭非法利用。
 edition_date: '2026-08-14'
 daily_section: social
-importance: medium
+importance: 2
 source_checked_at: 2026-08-15T14:30:00+09:00
 news_date: '2026-08-14'
 ---

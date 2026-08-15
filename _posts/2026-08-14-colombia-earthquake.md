@@ -14,7 +14,7 @@ tags:
 excerpt: 哥伦比亚西部7.4级地震死亡升至265人、约500人下落不明，超1万栋房屋倒塌；72小时黄金救援期已过，国际援助展开。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---

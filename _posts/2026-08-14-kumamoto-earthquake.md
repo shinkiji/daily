@@ -14,7 +14,7 @@ tags:
 excerpt: 熊本地震（7/28震度7）后第17天，九州自动车道14日早全线恢复通行；临时住宅开建、断水逐步恢复，文化财被害234件。
 edition_date: '2026-08-14'
 daily_section: core
-importance: high
+importance: 1
 source_checked_at: 2026-08-14T14:55:00+09:00
 news_date: '2026-08-14'
 ---
