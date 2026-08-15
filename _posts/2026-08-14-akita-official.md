@@ -13,10 +13,11 @@ tags:
   - 数据中心
   - 招商引资
 excerpt: 秋田县8月14日宣布，县职员在本月6日AI数据中心招商线上记者会上以不适当场所、服装吸烟应对媒体，被停职6个月并降为主干，干部公开致歉。
-edition_date: 2026-08-14
+edition_date: '2026-08-14'
 daily_section: social
 importance: medium
 source_checked_at: 2026-08-15T14:30:00+09:00
+news_date: '2026-08-14'
 ---
 
 # 秋田县职员穿浴袍在"情人旅馆"吸烟参加线上记者会 被停职6个月并降级

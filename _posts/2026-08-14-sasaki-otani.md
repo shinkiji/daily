@@ -12,10 +12,11 @@ tags:
   - MLB
   - 棒球
 excerpt: 8月14日道奇对酿酒人，佐佐木朗希先发6局失2分好投但无缘胜败，大谷翔平1安打，道奇遭逆转落败。
-edition_date: 2026-08-14
+edition_date: '2026-08-14'
 daily_section: other
 importance: low
 source_checked_at: 2026-08-15T14:30:00+09:00
+news_date: '2026-08-14'
 ---
 
 # MLB：佐佐木朗希6局2失分好投无缘胜败 大谷翔平1安打 道奇遭逆转落败

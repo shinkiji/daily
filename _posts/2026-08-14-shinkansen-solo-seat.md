@@ -12,10 +12,11 @@ tags:
   - S WorkP座位
   - 独座席
 excerpt: 东海道、山阳新干线的“S WorkP座位”因追加2000日元即可确保邻座空置而在SNS走红，被称为“独座席”。
-edition_date: 2026-08-14
+edition_date: '2026-08-14'
 daily_section: social
 importance: medium
 source_checked_at: 2026-08-14T10:10:00+09:00
+news_date: '2026-08-14'
 ---
 
 “只要追加付费，邻座就是空的”——新干线这样的座位近日在社交网站上引发热议，被网友称为“独座席”“保障人权的座位”。这是JR东海与JR西日本在东海道、山阳新干线推出的“S WorkP座位”，自2025年5月乘车起追加费用为2000日元。

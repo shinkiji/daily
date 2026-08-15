@@ -1,3 +1,39 @@
-# daily — 中文新闻站（GitHub Pages）
+# daily — Shinkiji 中文日报（GitHub Pages）
+# 参考 dnews（horse/dnews）结构：minima 主题 + 定制 SCSS
 # URL 规则：/YYYY/MM/DD/<slug>.html，稳定且不随分类变化
+
+title: Shinkiji 中文日报
+description: "每天从日本信息环境中筛选重要事件，重新检索、核验并写成可独立阅读的中文新闻。"
+lang: zh-CN
+timezone: Asia/Tokyo
+url: "https://shinkiji.github.io"
+baseurl: "/daily"
+
+theme: minima
+show_excerpts: true
 permalink: /:year/:month/:day/:slug.html
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - archive.md
+  - tags.md
+  - about.md
+
+author:
+  name: shinkiji 中文日报编辑部
+
+social_links:
+  github: shinkiji
+
+markdown: kramdown
+future: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github

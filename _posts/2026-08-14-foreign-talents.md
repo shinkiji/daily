@@ -13,10 +13,11 @@ tags:
   - 在留资格
   - 省令修订
 excerpt: 日本政府拟提高外国人"高端专业人才"认定年收入条件，并探讨废止部分评价项目加快审查，法务省目标2026年度内修订省令。
-edition_date: 2026-08-14
+edition_date: '2026-08-14'
 daily_section: social
 importance: medium
 source_checked_at: 2026-08-15T14:30:00+09:00
+news_date: '2026-08-14'
 ---
 
 # 日本拟提高外国"高端专业人才"认定年收入门槛 2026年度内修订省令

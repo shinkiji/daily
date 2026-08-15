@@ -13,10 +13,11 @@ tags:
   - 海关
   - 逮捕
 excerpt: 大阪府警方与海关8月13日公布，一名男子涉嫌将约21公斤（约11亿980万日元）兴奋剂藏于行李从夏威夷带入关西机场被查获，为开港以来手提行李走私最大量。
-edition_date: 2026-08-14
+edition_date: '2026-08-14'
 daily_section: social
 importance: medium
 source_checked_at: 2026-08-15T14:30:00+09:00
+news_date: '2026-08-14'
 ---
 
 # 关西机场查获约21公斤兴奋剂 价值约11亿日元 创手提行李走私最大纪录
